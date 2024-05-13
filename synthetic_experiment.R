@@ -1,4 +1,5 @@
 library(SynthETIC)
+library(tidyverse)
 
 # simulate observed data --------------------------------------------------
 
